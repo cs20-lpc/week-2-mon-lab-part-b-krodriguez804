@@ -22,4 +22,6 @@ class Student {
         
 };
 
+#include "Student.tpp"
+
 #endif
